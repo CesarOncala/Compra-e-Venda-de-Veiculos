@@ -22,13 +22,13 @@
 ##Opções de Venda (Options for Sale)  
 ![VenderConfirm](https://user-images.githubusercontent.com/52250904/111880051-e590e280-8987-11eb-9cc7-47052d0d343c.PNG)
 
-##Relatório de Vendas (Report of Sales)
+## Relatório de Vendas (Report of Sales)
 ![Relatório](https://user-images.githubusercontent.com/52250904/111880088-16711780-8988-11eb-9b1d-5fd3a8c49c0f.PNG)
 
 
 
 Nota: O aplicativo também oferece opções para editar dados salvos, desde que estes sejam de cliente ou de veículo. (Note: The application also oferter option for edit saved data, when this data is reference a register, costumer or car).
 
-Developed By: César Henrique Alves Oncala
+Developed By: César Henrique Alves Oncala focus in back-end, Leonardo Aleixo Lopes, Gabriel Jorge Soalheiro Só.
 
 KeyWords: XML, LINQ, C#, WinForms, .NET
