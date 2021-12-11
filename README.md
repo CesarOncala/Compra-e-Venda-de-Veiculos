@@ -19,7 +19,7 @@
 ## Tela de Venda do Automovel (Sell Screen of Car)
 ![Vender](https://user-images.githubusercontent.com/52250904/111880009-b7ab9e00-8987-11eb-8b94-1b47d2da57cb.PNG)
 
-##Opções de Venda (Options for Sale)  
+## Opções de Venda (Options for Sale)  
 ![VenderConfirm](https://user-images.githubusercontent.com/52250904/111880051-e590e280-8987-11eb-9cc7-47052d0d343c.PNG)
 
 ## Relatório de Vendas (Report of Sales)
